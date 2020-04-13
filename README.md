@@ -48,8 +48,9 @@ conda install git
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
-git clone https://github.com/koushik-elite/Face-Generation.git
-cd TV-Script-Generation
+git clone https://github.com/shehrum/Face_Generation_GAN.git
+cd Face_Generation_GAN
+
 ```
 
 2. Install PyTorch and torchvision; this should install the latest version of PyTorch.
